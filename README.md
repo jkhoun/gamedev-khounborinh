@@ -4,17 +4,17 @@
 ## about this project 
 this repository was created as part of a college assignment to learn the basics of Git Hib, repositorues, and readme documentation.  
 
-## wat im learning
+## what I'm learning
 how git hub works
 how repositories work
-how to write documents using mark down
-why version control is importanrin game developement and technology
+how to write documents using markdown
+why version control is important in game development and technology
 
 ## about me
 Justin Khounborinh
 Game Development and Esports Management
 Esports
 
-## rools used
+## Tools used
 GitHub
 Markdown
